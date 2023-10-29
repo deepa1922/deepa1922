@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Deepa 
+![git](images/github.png)
 
 ## About Me
 I'm Deepa Saini, a recent graduate with a Bachelor's degree in Science. I'm embarking on a career in the data domain, eagerly seeking opportunities to apply my skills. I'm committed to continuous learning, and I'll be sharing my best work right here on GitHub.
